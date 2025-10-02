@@ -1,1 +1,1 @@
-# Day-of-the-Programmer-ALGO
+# Day-of-the-Programmer-ALGO.This program determines the 256th day of a given year in Russia, accounting for the Julian calendar (before 1918), the transition year (1918), and the Gregorian calendar (after 1918), and returns the date in dd.mm.yyyy format.
